@@ -1,3 +1,3 @@
-# holbertonschool-zero_day
+#THis is the first Repository for the Holberton shool program
 
-## Oficial repository from the zero day at Holberton school
+##here we practice some exercices of vagrant, git and terminal more than all
