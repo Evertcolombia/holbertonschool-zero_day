@@ -1,0 +1,9 @@
+git coomand line
+
+git status 
+git add .
+git checkout 
+git checkout -b
+git push origin master
+git pull origin master
+
