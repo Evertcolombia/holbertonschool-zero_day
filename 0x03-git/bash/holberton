@@ -1,10 +1,3 @@
 #!/bin/bash
-<<<<<<< HEAD
-<<<<<<< HEAD
-echo "Holberton school is so cool!"
-=======
 echo"Holnerton school"
->>>>>>> update_script
-=======
-echo "Holberton School!"
->>>>>>> update_script
+
